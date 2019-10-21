@@ -1,2 +1,2 @@
-# Natours-Api
-Natours-Api is an" Api" building using "ExpressJS" and "NodeJs".
+# Natours
+Natours is an tour application developed by using "ExpressJS", "MongoDB and "NodeJs".
